@@ -1,3 +1,5 @@
+![build workflow](https://github.com/fkt1993/chrome-extension-react-typescript-template/actions/workflows/on_push.yml/badge.svg)
+
 # Preparation
 
 ## Install npm packages
